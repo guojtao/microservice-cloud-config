@@ -1,6 +1,6 @@
 spring:
   profiles:
-    active:dec
+    active:dev
 --
 server:
   port: 4001
